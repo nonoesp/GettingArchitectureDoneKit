@@ -6,6 +6,16 @@ A set of useful custom nodes to perform frequent tasks in Grasshopper for Rhino,
 
 Just download *NOGrasshopperUtil.gh* and drag it onto Grasshopper. There are various clusters to simplify frequent tasks.
 
+## Nodes
+
+### LIST: Remove List Extremes
+
+Remove elements from the beginning and the end of a list with integers.
+
+### CRV: Line With Center, Direction, Length
+
+Create a line with its middle point as a parameter.
+
 ## License
 
 NOGrasshopperUtil is licensed under the MIT license. (http://opensource.org/licenses/MIT)
