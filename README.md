@@ -4,7 +4,7 @@ A set of useful custom nodes to perform frequent tasks in Grasshopper for Rhino.
 
 ## Usage
 
-Just download *NOGrasshopperUtil.gh* and drag it onto Grasshopper. There are various clusters to simplify frequent tasks.
+Just download *NOGrasshopperUtil.gh* and drag it onto Grasshopper. There are various clusters to simplify frequent tasks. This library is part of [Getting Architecture Done](http://www.gettingarchitecturedone.com/?utm_source=github&utm_medium=GHUtil).
 
 ## License
 
