@@ -1,6 +1,6 @@
 ## NOGrasshopperUtil
 
-A set of useful custom nodes to perform frequent tasks in Grasshopper for Rhino. This library is part of [Getting Architecture Done](http://www.gettingarchitecturedone.com/?utm_source=github&utm_medium=GHUtil).
+A set of useful custom nodes to perform frequent tasks in Grasshopper for Rhino, grouped as Grasshopper clusters. This library is part of the [Getting Architecture Done](http://www.gettingarchitecturedone.com/?utm_source=github&utm_medium=GHUtil) project.
 
 ## Usage
 
@@ -12,4 +12,4 @@ NOGrasshopperUtil is licensed under the MIT license. (http://opensource.org/lice
 
 ## Me
 
-I tweet on [@nonoesp](http://www.twitter.com/nonoesp) and blog on [nono.ma/says](http://nono.ma/says)
+I tweet on [@nonoesp](http://www.twitter.com/nonoesp) and blog on [nono.ma/says](http://nono.ma/says).
