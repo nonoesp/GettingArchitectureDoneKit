@@ -16,6 +16,10 @@ Remove elements from the beginning and the end of a list with integers.
 
 Create a line with its middle point as a parameter.
 
+### CRV: Thicken With Offset Thickness
+
+Create an outline from a line with a given thickness.
+
 ## License
 
 NOGrasshopperUtil is licensed under the MIT license. (http://opensource.org/licenses/MIT)
