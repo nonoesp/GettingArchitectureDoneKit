@@ -1,6 +1,6 @@
 ## NOGrasshopperUtil
 
-A set of useful custom nodes to perform frequent tasks in Grasshopper for Rhino, grouped as Grasshopper clusters. This library is part of the [Getting Architecture Done](http://www.gettingarchitecturedone.com/?utm_source=github&utm_medium=GHUtil) project.
+Just-add-water functions in Grasshopper for Rhino to perform frequent design and architecture tasks. This library is part of the [Getting Architecture Done](http://www.gettingarchitecturedone.com/?utm_source=github&utm_medium=GHUtil) project.
 
 ## Usage
 
