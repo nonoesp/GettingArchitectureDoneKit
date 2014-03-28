@@ -20,10 +20,18 @@ Create a line with its middle point as a parameter.
 
 Create an outline from a line with a given thickness.
 
+### SRF: Solid With Outline, Base Z, Height
+
+Create a solid with the plan drawing outline, as a extrusion from a *Z* distance with a given *Height.*
+
+### PEOPLE: Populate Surface With Amount, Angle
+
+Add human scale to a surface with a certain number of people and a rotation angle. It returns the outlines as planar curves which can be used to create a planar surface via *Boundary Surfaces,* and it gets a *seed* value to re-randomize the locations.
+
 ## License
 
 NOGrasshopperUtil is licensed under the MIT license. (http://opensource.org/licenses/MIT)
 
 ## Me
 
-I tweet on [@nonoesp](http://www.twitter.com/nonoesp) and blog on [nono.ma/says](http://nono.ma/says).
+I tweet on [@nonoesp](http://www.twitter.com/nonoesp) and blog on [nono.ma/says](http://nono.ma/says). I would love to hear about it if you use this library. Thanks!
