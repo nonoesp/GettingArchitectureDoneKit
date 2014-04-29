@@ -6,9 +6,9 @@ Just-add-water functions in Grasshopper for Rhino to perform frequent design and
 
 Just download *NOGrasshopperUtil.gh* and drag it onto Grasshopper. There are various clusters to simplify frequent tasks.
 
-Currently, this documentation file is incomplete, and the Grasshopper library contains more functions that written below. An update with a cleanup of documentation and library will arrive soon.
+Currently, the documentation is incomplete, and the Grasshopper library contains more functions than is written below. An update with a cleanup of documentation and library will arrive soon.
 
-Also, I have created an Inbox folder with sepparated nodes and functions that I intend to incorporate to the main library.
+Also, the Inbox folder now contains sepparated nodes that will be incorporated to the library in the near future.
 
 ## Nodes
 
