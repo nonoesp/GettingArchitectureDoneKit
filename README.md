@@ -38,4 +38,4 @@ NOGrasshopperUtil is licensed under the MIT license. (http://opensource.org/lice
 
 ## Me
 
-I tweet on [@nonoesp](http://www.twitter.com/nonoesp) and blog on [nono.ma/says](http://nono.ma/says). I would love to hear about it if you use this library. Thanks!
+I tweet at [@nonoesp](http://www.twitter.com/nonoesp) and blog at [nono.ma/says](http://nono.ma/says). I would love to hear about it if you use this library. Thanks!
