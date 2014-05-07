@@ -16,7 +16,7 @@ Also, the Inbox folder now contains sepparated nodes that will be incorporated t
 
 ### LIST: Remove List Extremes
 
-Remove elements from the beginning and the end of a list with integers.
+Remove elements from beginning or end of a list with integers.
 
 ### CRV: Line With Center, Direction, Length
 
