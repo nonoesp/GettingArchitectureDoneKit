@@ -1,6 +1,6 @@
-## NOGrasshopperUtil
+## GettingArchitectureDoneKit
 
-*Incoming library's name change to **GettingArchitectureDoneKit.gh***
+*Formerly called **NOGrasshopperUtil***
 
 Just-add-water functions in Grasshopper for Rhino to perform frequent design and architecture tasks. This library is part of the [Getting Architecture Done](http://www.gettingarchitecturedone.com/?utm_source=github&utm_medium=GHUtil) project.
 
