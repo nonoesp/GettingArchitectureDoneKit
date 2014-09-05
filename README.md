@@ -2,11 +2,11 @@
 
 *Formerly called **NOGrasshopperUtil***
 
-Just-add-water functions in Grasshopper for Rhino to perform frequent design and architecture tasks. This library is part of the [Getting Architecture Done](http://www.gettingarchitecturedone.com/?utm_source=github&utm_medium=GHUtil) project.
+Just-add-water functions in Grasshopper for Rhino to perform frequent design and architecture tasks. This library is part of the [Getting Architecture Done](http://www.gettingarchitecturedone.com/?utm_source=github&utm_medium=GHUtil) project. Follow [@GettingArchDone](http://twitter.com/GettingArchDone) on Twitter to keep updated.
 
 ## Usage
 
-Just download *NOGrasshopperUtil.gh* and drag it onto Grasshopper. There are various clusters to simplify frequent tasks.
+Just download *GettingArchitectureDoneKit.gh* and drag it onto Grasshopper. There are various clusters to simplify frequent tasks.
 
 Currently, the documentation is incomplete, and the Grasshopper library contains more functions than is written below. An update with a cleanup of documentation and library will arrive soon.
 
@@ -34,9 +34,13 @@ Create a solid with the plan drawing outline, as a extrusion from a *Z* distance
 
 Add human scale to a surface with a certain number of people and a rotation angle. It returns the outlines as planar curves which can be used to create a planar surface via *Boundary Surfaces,* and it gets a *seed* value to re-randomize the locations.
 
+### SRF: Ondulated Panel With Curve, DivisionLength, Thickness, Height
+
+A constructive panel for facades and interior spaces which can be ondulated, created from a base Curve. Panels take a Thickness and a DivisionLength parameter to customize the ondulation of the panels. The Height is also variable.
+
 ## License
 
-NOGrasshopperUtil is licensed under the MIT license. (http://opensource.org/licenses/MIT)
+GettingArchitectureDoneKit is licensed under the MIT license. (http://opensource.org/licenses/MIT)
 
 ## Me
 
