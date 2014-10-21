@@ -38,6 +38,14 @@ Add human scale to a surface with a certain number of people and a rotation angl
 
 A constructive panel for facades and interior spaces which can be ondulated, created from a base Curve. Panels take a Thickness and a DivisionLength parameter to customize the ondulation of the panels. The Height is also variable.
 
+## Inbox Folder
+
+### Util_StairsFromPlanSteps
+
+![Stairs From Plan Steps](Links/Util_StairsFromPlanSteps.jpg)
+
+Create flat stairs with plan steps referenced from a 2D drawing and a height. Multiple stairs can be created at a time sharing a given height.
+
 ## License
 
 GettingArchitectureDoneKit is licensed under the MIT license. (http://opensource.org/licenses/MIT)
