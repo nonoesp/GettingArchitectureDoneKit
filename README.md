@@ -2,7 +2,7 @@
 
 *Formerly called **NOGrasshopperUtil***
 
-Just-add-water functions in Grasshopper for Rhino to perform frequent design and architecture tasks. This library is part of the [Getting Architecture Done](http://www.gettingarchitecturedone.com/?utm_source=github&utm_medium=GHUtil) project. Follow [@GettingArchDone](http://twitter.com/GettingArchDone) on Twitter to keep updated.
+Just-add-water functions in Grasshopper for Rhino to perform frequent design and architecture tasks. This library is part of the [Getting Architecture Done](http://www.gettingarchitecturedone.com/?utm_source=github&utm_medium=GADKit) project. Follow [@GettingArchDone](http://twitter.com/GettingArchDone) on Twitter to keep updated.
 
 ## Usage
 
@@ -10,7 +10,7 @@ Just download *GettingArchitectureDoneKit.gh* and drag it onto Grasshopper. Ther
 
 Currently, the documentation is incomplete, and the Grasshopper library contains more functions than is written below. An update with a cleanup of documentation and library will arrive soon.
 
-Also, the Inbox folder now contains sepparated nodes that will be incorporated to the library in the near future.
+Also, the Inbox folder now contains separated nodes that will be incorporated to the library in the near future.
 
 ## Nodes
 
