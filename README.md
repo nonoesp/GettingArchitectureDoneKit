@@ -46,6 +46,18 @@ A constructive panel for facades and interior spaces which can be ondulated, cre
 
 Create flat stairs with plan steps referenced from a 2D drawing and a height. Multiple stairs can be created at a time sharing a given height.
 
+## TODO
+
+This library is moving into a different way. Rather than having a single file with all the clusters, each function will have independent files, with proper prefixes so the library can be browsed with ease just by looking into the file names. In that way, the library will work as a set of helper functions which will be versioned independently.
+
+What follows is a list with proposed functions that are to be developed [or are already developed in some way in the current library]. Anyone is free to developed any of the parts, propose new ones, and re-factor existing ones.
+
+* GADGeometryColorGradient
+* GADGeometryExtrudeFromCenter
+* GADGeometrySortByNeighbours
+* GADCurveFromCenter
+* GADCurveSubCurveWithPoints
+
 ## License
 
 GettingArchitectureDoneKit is licensed under the MIT license. (http://opensource.org/licenses/MIT)
