@@ -48,7 +48,7 @@ Create flat stairs with plan steps referenced from a 2D drawing and a height. Mu
 
 ## TODO
 
-This library is moving into a different way. Rather than having a single file with all the clusters, each function will have independent files, with proper prefixes so the library can be browsed with ease just by looking into the file names. In that way, the library will work as a set of helper functions which will be versioned independently.
+This library is moving into a different structure. Rather than having a single file with all the clusters, each function will have independent files, with proper prefixes so the library can be browsed with ease just by looking into the file names. In that way, the library will work as a set of helper functions which will be versioned independently.
 
 What follows is a list with proposed functions that are to be developed [or are already developed in some way in the current library]. Anyone is free to developed any of the parts, propose new ones, and re-factor existing ones.
 
@@ -58,6 +58,7 @@ What follows is a list with proposed functions that are to be developed [or are 
 * GADCurveFromCenter
 * GADCurveSubCurveWithPoints
 * GADPointOnPlane
+* GADPeopleMaker
 
 ## License
 
