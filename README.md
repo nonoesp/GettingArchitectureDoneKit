@@ -62,6 +62,7 @@ All the functions on bold have already been developed, but they are still not av
 * GADCurveSubCurveWithPoints
 * **GADPointOnPlane**
 * GADPeopleMaker
+* **GADRectangleFromCenter**
 
 ## License
 
