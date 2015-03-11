@@ -52,13 +52,15 @@ This library is moving into a different structure. Rather than having a single f
 
 What follows is a list with proposed functions that are to be developed [or are already developed in some way in the current library]. Anyone is free to developed any of the parts, propose new ones, and re-factor existing ones.
 
+All the functions on bold have already been developed, but they are still not available.
+
 * GADGeometryColorGradient
-* GADGeometryExtrudeFromCenter
+* **GADGeometryExtrudeFromCenter**
 * GADGeometrySortByNeighbours
-* GADCurveFromCenter
-* GADCurveOffset
+* **GADCurveFromCenter**
+* **GADCurveOffset**
 * GADCurveSubCurveWithPoints
-* GADPointOnPlane
+* **GADPointOnPlane**
 * GADPeopleMaker
 
 ## License
