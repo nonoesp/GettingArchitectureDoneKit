@@ -56,6 +56,7 @@ What follows is a list with proposed functions that are to be developed [or are 
 * GADGeometryExtrudeFromCenter
 * GADGeometrySortByNeighbours
 * GADCurveFromCenter
+* GADCurveOffset
 * GADCurveSubCurveWithPoints
 * GADPointOnPlane
 * GADPeopleMaker
