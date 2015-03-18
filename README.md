@@ -54,6 +54,8 @@ What follows is a list with proposed functions that are to be developed [or are 
 
 All the functions on bold have already been developed, but they are still not available.
 
+### Utilities
+
 * GADGeometryColorGradient
 * **GADGeometryExtrudeFromCenter**
 * GADGeometrySortByNeighbours
@@ -63,6 +65,10 @@ All the functions on bold have already been developed, but they are still not av
 * **GADPointOnPlane**
 * GADPeopleMaker
 * **GADRectangleFromCenter**
+
+### Workflows
+
+* **GADWorkflowDictionary**
 
 ## License
 
