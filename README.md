@@ -69,6 +69,7 @@ All the functions on bold have already been developed, but they are still not av
 ### Workflows
 
 * **GADWorkflowDictionary**
+* **GADWorkflowBake**
 
 ## License
 
