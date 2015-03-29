@@ -13,7 +13,7 @@ This library is part of the [Getting Architecture Done](http://www.gettingarchit
 
 The new structure of **GADKit** contains separated files for each utility and workflow - rather than having a single Grasshopper file with all the clusters. This way, the library is more transparent, and easier to explore, use, and maintain.
 
-*All utilities and workflows in bold are already existing.*
+*All utilities and workflows in bold exist.*
 
 ### Utilities
 
