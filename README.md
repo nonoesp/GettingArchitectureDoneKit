@@ -1,18 +1,44 @@
 ## GettingArchitectureDoneKit
 
-Just-add-water functions in Grasshopper for Rhino to perform frequent design and architecture tasks.
+Just-add-water utilities in Grasshopper for Rhino to perform frequent design and architecture tasks.
 
 This library is part of the [Getting Architecture Done](http://www.gettingarchitecturedone.com/?utm_source=github&utm_medium=GADKit) project. Follow [@GettingArchDone](http://twitter.com/GettingArchDone) on Twitter or [Facebook](http://facebook.com/gettingarchitecturedone) to keep updated.
 
 ## Usage
 
-Just download *GettingArchitectureDoneKit.gh* and drag it onto Grasshopper. There are various clusters to simplify frequent tasks.
+* Download the Grasshopper utilities.
+* Drag a definition onto Grasshopper.
 
-Currently, the documentation is incomplete, and the Grasshopper library contains more functions than is written below. An update with a cleanup of documentation and library will arrive soon.
+## Structure
 
-Also, the Inbox folder now contains separated nodes that will be incorporated to the library in the near future.
+The new structure of **GADKit** contains separated files for each utility and workflow - rather than having a single Grasshopper file with all the clusters. This way, the library is more transparent on what's inside it, and can be browsed and maintained easily.
 
-## Nodes
+*All utilities and workflows in bold are already existing.*
+
+### Utilities
+
+A series of functions of frequent tasks as a shortcut or improvement of existing Grasshopper functionality.
+
+* GADGeometryColorGradient
+* **GADGeometryExtrudeFromCenter**
+* GADGeometrySortByNeighbours
+* **GADLineFromCenter**
+* **GADCurveOffset**
+* **GADCurveWiggle**
+* GADCurveSubCurveWithPoints
+* **GADPatternMaker**
+* **GADPointOnPlane**
+* **GADPeopleMaker**
+* **GADRectangleFromCenter**
+
+### Workflows
+
+Ways to work. Already built in separate workflows.
+
+* **GADWorkflowDictionary**
+* **GADWorkflowBake**
+
+## Old Library (still in transition)
 
 ### LIST: Remove List Extremes
 
@@ -45,31 +71,6 @@ A constructive panel for facades and interior spaces which can be ondulated, cre
 ![Stairs From Plan Steps](Links/Util_StairsFromPlanSteps.jpg)
 
 Create flat stairs with plan steps referenced from a 2D drawing and a height. Multiple stairs can be created at a time sharing a given height.
-
-## TODO
-
-This library is moving into a different structure. Rather than having a single file with all the clusters, each function will have independent files, with proper prefixes so the library can be browsed with ease just by looking into the file names. In that way, the library will work as a set of helper functions which will be versioned independently.
-
-What follows is a list with proposed functions that are to be developed [or are already developed in some way in the current library]. Anyone is free to developed any of the parts, propose new ones, and re-factor existing ones.
-
-All the functions on bold have already been developed, but they are still not available.
-
-### Utilities
-
-* GADGeometryColorGradient
-* **GADGeometryExtrudeFromCenter**
-* GADGeometrySortByNeighbours
-* **GADCurveFromCenter**
-* **GADCurveOffset**
-* GADCurveSubCurveWithPoints
-* **GADPointOnPlane**
-* GADPeopleMaker
-* **GADRectangleFromCenter**
-
-### Workflows
-
-* **GADWorkflowDictionary**
-* **GADWorkflowBake**
 
 ## License
 
