@@ -2,7 +2,7 @@
 
 Just-add-water utilities for Grasshopper for Rhino to perform design and architectural tasks with ease.
 
-This library is part of the [Getting Architecture Done](http://www.gettingarchitecturedone.com/?utm_source=github&utm_medium=GADKit) project. Follow [@GettingArchDone](http://twitter.com/GettingArchDone) on Twitter or [Facebook](http://facebook.com/gettingarchitecturedone) to keep updated.
+This library is part of the [Getting Architecture Done](http://www.gettingarchitecturedone.com/?utm_source=github&utm_medium=GADKit) project. Follow [@GettingArchDone](http://twitter.com/GettingArchDone) on Twitter or [Facebook](http://facebook.com/gettingarchitecturedone) to keep updated. Please, take a look at our architecture articles at our [gettingarchitecturedone.com/writing](http://gettingarchitecturedone.com/writing) site.
 
 ## Usage
 
