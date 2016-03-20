@@ -47,4 +47,4 @@ GettingArchitectureDoneKit is licensed under the MIT license. (http://opensource
 
 ## Me
 
-Hi there! I am Nono Martínez Alonso, an Architect and a Harvard GSD MDes Technology Candidate. I tweet at [@nonoesp](http://www.twitter.com/nonoesp) and blog at [nono.ma/says](http://nono.ma/says). If you use this library, I would love to hear about it. Thanks!
+Hi there! I am Nono Martínez Alonso, an Architect and a Harvard GSD MDes Technology Candidate. I tweet at [@nonoesp](http://www.twitter.com/nonoesp) and write at [Getting Simple](http://gettingsimple.com), [Getting Architecture Done](http://gettingarchitecturedone.com), and [nono.ma/says](http://nono.ma/says). If you use this library, I would love to hear about it. Thanks!
